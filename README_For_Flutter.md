@@ -58,11 +58,14 @@
 
 
 
-
+---
 ## 📄 الرخصة
 
+<div align="center">
+  <p>هذا المشروع متوفر تحت رخصة <strong>MIT</strong>.</p>
+</div>
 
-
+---
 <div align="center">
   <p>صُنع بـ MProgrammer01</p>
 </div>
