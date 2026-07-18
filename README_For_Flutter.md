@@ -1,169 +1,68 @@
 <div align="center">
-  <h1>🎯 Flutter Knowledge - من النظرية إلى التطبيق</h1>
-  <p>مستودع يحتوي على تطبيقات عملية بسيطة لمفاهيم Flutter</p>
-  <p>موجه للانتقال من <strong>التعلم النظري</strong> إلى <strong>التطبيق العملي</strong></p>
+  <h1>🎯 Freelance Rate Calculator - Project Structure & Code Showcase</h1>
 </div>
 
 ---
+## 🏗️ Project Structure
 
-## 📌 حول المستودع
+1)
+<img width="375" height="250" alt="1" src="https://github.com/user-attachments/assets/7511ffa4-6914-4f33-a269-47111fca7544" />
 
-هذا المستودع **ليس مشاريع كاملة**، بل هو:
+2)
+<img width="335" height="302" alt="2" src="https://github.com/user-attachments/assets/ed7c87e5-ffed-4064-8eab-fe25fa6f3710" />
 
-- ✅ تطبيقات مباشرة لكل مفهوم في Flutter
-- ✅ أمثلة عملية لما تعلمته نظريًا
-- ✅ كود بسيط وواضح لكل Widget أو Feature
-- ✅ جسر بين الدروس والتطبيق الفعلي
+3)
+<img width="297" height="137" alt="3" src="https://github.com/user-attachments/assets/4fc653bf-f257-4008-950b-084a178523e0" />
 
-<div>
-<details>
-<summary><strong>💡 كيف تستخدم هذا المستودع؟</strong></summary>
-<br>
+4)
+<img width="296" height="301" alt="4" src="https://github.com/user-attachments/assets/bb4555a0-6fd2-43cd-bf5f-f50639dbd56f" />
 
-1. **تعلم المفهوم نظريًا** (Card, ListView, Animation, إلخ)
-2. **ادخل للمجلد المقابل** في هذا المستودع
-3. **شاهد التطبيق العملي** للمفهوم
-4. **جرب بنفسك** وعدل على الكود
+5)
+<img width="226" height="192" alt="5" src="https://github.com/user-attachments/assets/2dc56fd0-3e1a-4832-90d0-c44f6d065d10" />
 
-<strong>🎯 الهدف:</strong> تحويل ما قرأته إلى شيء تراه يعمل أمامك!
+6)
+<img width="351" height="688" alt="6" src="https://github.com/user-attachments/assets/305815d1-aa79-419a-bb4f-80ea9ca90100" />
 
-</details>
+7)
+<img width="356" height="723" alt="7" src="https://github.com/user-attachments/assets/7405ba7a-776c-4221-908c-b6256d6dd463" />
 
-<details>
-<summary><strong>⚠️ ملاحظة مهمة</strong></summary>
-<br>
-<div dir="ltr">
-
-قد تجد في بعض التطبيقات **مفاهيم إضافية** غير المفهوم الأساسي.
-
-<strong>مثال:</strong> إذا دخلت إلى مجلد <code>Text Widget</code> ورأيت استخدام <code>Container</code> أو <code>Column</code>، **لا تقلق!**
-
-- 🎯 **ركز فقط** على المفهوم الأساسي الذي دخلت لتتعلمه
-- ✅ المفاهيم الإضافية موجودة فقط لكي **يعمل الكود**، وليس لتتعلمها الآن
-- 📝 كل مفهوم إضافي **له المجلد الخاص به** الذي يمكنك الرجوع إليه فيما بعد
-
-</div>
-</details>
+8)
+<img width="306" height="248" alt="8" src="https://github.com/user-attachments/assets/4ce20ea2-dd03-40f9-8860-a731281c1c70" />
 
 ---
+## 💻 Code Examples
 
-</div>
+1)
+<img width="1226" height="843" alt="c1" src="https://github.com/user-attachments/assets/2f6aba73-1514-4b21-950a-515c3f135f99" />
 
-## 🛠️ التقنيات المستعملة
+2)
+<img width="666" height="877" alt="c2" src="https://github.com/user-attachments/assets/ac650f7d-c9f3-4214-8c40-acdafc289258" />
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">🎨 <strong>Flutter</strong></td>
-    <td>بناء واجهات المستخدم</td>
-  </tr>
-  <tr>
-    <td align="center">🎯 <strong>Dart</strong></td>
-    <td>لغة البرمجة</td>
-  </tr>
-</table>
+3)
+<img width="743" height="851" alt="c3" src="https://github.com/user-attachments/assets/58789c40-1260-45fd-be30-c14f85df5d8d" />
 
----
+4)
+<img width="1210" height="822" alt="c4" src="https://github.com/user-attachments/assets/dc12a7c2-44c7-44f1-b69a-832288be46a5" />
 
-</div>
+5)
+<img width="888" height="817" alt="c5" src="https://github.com/user-attachments/assets/7adedd2d-9ef0-471c-9744-f9dbdd358fc2" />
 
-## 📂 بنية المستودع
+6)
+<img width="808" height="797" alt="c6" src="https://github.com/user-attachments/assets/7da6ec1e-7310-4359-89ff-7974a7f23123" />
 
-كل **مفهوم** له مجلد خاص به مع تطبيق بسيط وواضح.
-```
-Android-Cross-Platform-Flutter-Knowledges/
-│
-├── Knowledge-01/
-│
-├── Knowledge-02/
-│
-├── Knowledge-03/
-│
-└── ............
-```
-
----
-
-## 🎯 الفرق بين هذا المستودع والمشاريع العادية
-
-<div align="center">
-<table>
-  <tr>
-    <th>المشاريع التقليدية</th>
-    <th>هذا المستودع</th>
-  </tr>
-  <tr>
-    <td>✅ تطبيقات كاملة</td>
-    <td>🎯 تطبيق مفهوم واحد فقط</td>
-  </tr>
-  <tr>
-    <td>✅ عدة مفاهيم مدمجة</td>
-    <td>🎯 التركيز على فكرة واحدة</td>
-  </tr>
-  <tr>
-    <td>✅ للممارسة الشاملة</td>
-    <td>🎯 للفهم العميق لكل مفهوم</td>
-  </tr>
-</table>
-
----
-
-</div>
-
-## 💡 كيف تستفيد أقصى استفادة؟
-
-<div dir="ltr">
-
-1. **اقرأ عن المفهوم** في الدوكيومنتيشن أو أي مصدر تعليمي
-2. **افتح المجلد المقابل** في هذا المستودع
-3. **شغل الكود** وشاهد النتيجة
-4. **حاول تعديله** بنفسك قبل النظر للكود كاملاً
-5. **اصنع مثال خاص بك** بناءً على ما تعلمته
-
-</div>
+7)
+<img width="1046" height="840" alt="c7" src="https://github.com/user-attachments/assets/3229720c-4afb-4da1-b5f6-62d4c9a3f20c" />
 
 
----
 
-## 🚀 حالة المستودع
 
-<div align="center">
-  
-| الوصف | الحالة |
-|:---:|:---|
-| تتم إضافة المفاهيم والتطبيقات بشكل تدريجي | 🔄  |
-| كل تطبيق يركز على مفهوم واحد فقط | 🎯  |
-| المستودع سيتوسع ليشمل جميع مفاهيم Flutter الأساسية | 📈 |
 
-</div>
 
----
-
-## 🎓 لمن هذا المستودع؟
-
-- 🎯 **المبتدئين** الذين أنهوا الدروس النظرية ويريدون التطبيق
-- 🎯 **المتعلمين** الذين يحتاجون أمثلة واضحة لكل مفهوم
-- 🎯 **أي شخص** يريد مرجع سريع لتطبيقات Flutter البسيطة
-
----
-
-## 🤝 المساهمة
-
-<div align="center">
-  <p>هذا المستودع مخصص للتعلم والتطبيق.</p>
-  <p>إذا كان عندك تطبيق بسيط لمفهوم معين، <strong>مرحب بمساهمتك</strong> ✨</p>
-</div>
-
----
 
 ## 📄 الرخصة
 
-<div align="center">
-  <p>هذا المشروع مفتوح المصدر ومتوفر تحت رخصة <strong>MIT</strong>.</p>
-</div>
 
----
 
 <div align="center">
-  <p>صُنع بـ MProgrammer01 للتعلم والتطوير</p>
+  <p>صُنع بـ MProgrammer01</p>
 </div>
