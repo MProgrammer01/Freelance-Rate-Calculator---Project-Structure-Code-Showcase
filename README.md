@@ -62,7 +62,7 @@
 ## 📄 الرخصة
 
 <div align="center">
-  <p>هذا المشروع متوفر تحت رخصة <strong>MIT</strong>.</p>
+  <p>هذا المشروع متوفر تحت رخصة <strong>Apache License 2.0</strong>.</p>
 </div>
 
 ---
